@@ -34,9 +34,6 @@
 
 The **Akcero Multi-Agent AI Platform** is an enterprise-grade solution that leverages specialized AI agents to handle diverse tasks through a unified interface. Built with modern web technologies and powered by Google's Gemini AI, the platform intelligently routes user requests to the most appropriate agent, ensuring optimal results across natural language processing, code generation, and data analysis domains.
 
-###  Hackathon Context
-
-This project was developed as part of a hackathon challenge to create a collaborative multi-agent system, demonstrating advanced AI orchestration, intelligent routing, and production-ready architecture.
 
 ---
 
@@ -561,27 +558,10 @@ This project is developed as part of the Akcero Hackathon.
 
 ##  Acknowledgments
 
-- **Akcero** - For hosting the hackathon and providing the opportunity
 - **Google Gemini** - For powerful AI capabilities
 - **FastAPI & React Communities** - For excellent documentation and support
 
 ---
-
-##  Support & Contact
-
-**Developed for**: Akcero Hackathon  
-**Purpose**: Internship Application
-
-For questions or support:
-- Open an issue on GitHub
-- Check the [API documentation](http://localhost:8000/docs)
-- Review Docker logs for troubleshooting
-
----
-
-<div align="center">
-
-**Built with ❤️ for Akcero Hackathon**
 
 ![Status](https://img.shields.io/badge/Status-Prototype-2aa411?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Deployment-Docker%20Ready-2496ED?style=for-the-badge)
