@@ -532,7 +532,7 @@ Access Prometheus metrics at http://localhost:9090 (when monitoring profile is a
 
 ##  Contributing
 
-This project was developed as a hackathon submission. Contributions, suggestions, and feedback are welcome
+This project is an open source project. Contributions, suggestions, and feedback are welcome
 
 ### Development Setup
 
@@ -547,12 +547,6 @@ This project was developed as a hackathon submission. Contributions, suggestions
 - **Backend**: Follow PEP 8 Python style guide
 - **Frontend**: Use ESLint and Prettier configurations
 - **Commits**: Use conventional commit messages
-
----
-
-##  License
-
-This project is developed as part of the Akcero Hackathon.
 
 ---
 
