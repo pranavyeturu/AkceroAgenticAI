@@ -1,0 +1,54 @@
+# Environment variables (IMPORTANT - Don't push API keys!)
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+docker-compose.override.yml
+
+# Database & Data
+postgres_data/
+redis_data/
+*.sqlite3
+*.db
+
+# Uploads & Logs
+uploads/
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+frontend/build/
+frontend/.next/
+backend/.pytest_cache/
+
+# Temporary files
+*.tmp
+*.bak
+*~
